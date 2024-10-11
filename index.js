@@ -8,7 +8,7 @@ const { convert } = require("html-to-text");
 const Mastodon = require("mastodon-api");
 const cron = require("node-cron");
 
-const cOptions = { wordwrap: false };
+
 
 (function () {
   let myConsole = new console.Console(
@@ -64,7 +64,8 @@ const botScript = async () => {
   recorder.write(out);
   console.log("recording...");
 
-  sleep(7000).then(() => {
+  sleep(8000).then(() => {
+    const cOptions = { wordwrap: false };
     const statusText = convert(`${flatGrammar}`, cOptions);
     const mediaDescription =
       "a robot voice reading out a series of numbers and occasionally words from the NATO phonetic alphabet, see status text for content";

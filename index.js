@@ -28,7 +28,7 @@ const cron = require("node-cron");
   
 })(); //logger
 
-const token = process.env.MASTODON_TEST_TOKEN,
+const token = process.env.MASTODON_TOKEN,
   api = process.env.BOTSINSPACE_API_URL;
 
 const mastodonClient = new Mastodon({

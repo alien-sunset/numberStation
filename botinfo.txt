@@ -1,0 +1,12 @@
+Your Friendly Neighborhood Numbers Station
+
+Number strings (mostly) randomly generated via Tracery
+Robo voice made with Text2wav using the open source speech synthesizer eSpeak NG.
+No AI allowed here, only proper robots like The Makers intended.
+
+Unloved numbers deleted after two weeks
+
+https://github.com/espeak-ng/espeak-ng
+
+https://github.com/alien-sunset/numberStation
+

@@ -15,12 +15,17 @@ const cron = require("node-cron");
     fs.createWriteStream(`./logs/output${new Date().getTime()}.txt`)
   );
   let log_stdout = process.stdout;
+  let log_err = process.stderr;
+  
   console.log = function (str) {
     myConsole.log(str);
     log_stdout.write(util.format(str) + "\n");
   };
-  console.error = console.log;
-  err = console.log;
+
+  console.warn = console.log
+  console.info = console.log
+  console.error = console.log
+  
 })(); //logger
 
 const token = process.env.MASTODON_TEST_TOKEN,
@@ -96,7 +101,7 @@ function sendFileToMastodon(filePath, mediaDescription, statusText, cb) {
           cb(err, data);
         }
       } else {
-        console.log("upladed! ");
+        console.log(`upladed! ${new Date().toTimeString()}`);
         const statusObj = {
           status: statusText,
           // media_ids: new Array(data.media_id_string),

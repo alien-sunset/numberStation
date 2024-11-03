@@ -67,7 +67,7 @@ const botScript = async () => {
 
   let recorder = fs.createWriteStream(`./voice/numbers.wav`);
   recorder.write(out);
-  console.log("recording...");
+  console.log(`\n recording...`);
 
   sleep(8000).then(() => {
     const cOptions = { wordwrap: false };
@@ -76,7 +76,7 @@ const botScript = async () => {
       "a robot voice reading out a series of numbers and occasionally words from the NATO phonetic alphabet, see status text for content";
 
     console.log(statusText);
-    console.log(`${new Date().toTimeString()} \n`);
+    console.log(`${new Date().toLocaleTimeString()} \n`);
 
     return sendFileToMastodon(
       `./voice/numbers.wav`,
@@ -101,7 +101,7 @@ function sendFileToMastodon(filePath, mediaDescription, statusText, cb) {
           cb(err, data);
         }
       } else {
-        console.log(`upladed! ${new Date().toTimeString()}`);
+        console.log(`upladed! ${new Date().toLocaleTimeString()}`);
         const statusObj = {
           status: statusText,
           // media_ids: new Array(data.media_id_string),
@@ -113,7 +113,7 @@ function sendFileToMastodon(filePath, mediaDescription, statusText, cb) {
             console.log("uh, oh, a mastodon.postMedia error:", err);
           } else {
             console.log(
-              `posted! to ${data.url} at ${new Date().toTimeString()} \n`
+              `posted! to ${data.url} at ${new Date().toLocaleTimeString()} \n`
             );
 
             delete require.cache[
@@ -136,17 +136,17 @@ botScript();
 
 //schedulers
 cron.schedule("0 */7 * * *", () => {
-  console.log(`\n\n #1 posting at ${new Date().toTimeString()}\n`);
+  console.log(`\n\n #1 posting at ${new Date().toLocaleTimeString()}\n`);
   botScript();
 });
 
 cron.schedule("30 */3 * * *", () => {
-  console.log(`\n\n #2 posting at ${new Date().toTimeString()}\n`);
+  console.log(`\n\n #2 posting at ${new Date().toLocaleTimeString()}\n`);
   botScript();
 });
 
 //connecting to teh interwebs
 const listener = app.listen(process.env.PORT, () => {
   console.log("📻 listening in on port " + listener.address().port);
-  console.log(`⏰ server start time: ${new Date().toString()}`);
+  console.log(`⏰ server start time: ${new Date().toLocaleString()}\n`);
 });

@@ -1,0 +1,201 @@
+📻 listening in on port 64354
+⏰ server start time: Thu Oct 24 2024 23:02:29 GMT-0400 (Eastern Daylight Time)
+
+wasm streaming compile failed: TypeError: fetch failed
+falling back to ArrayBuffer instantiation
+
+ recording...
+
+1 64 211 895 471 4 3 446 560 Oscar Yankee Charlie Quebec Uniform 87 326 8906 7 05 662 5983 4 3 971 129 1 059 463 094 359 295 264 561 825 294 946. 7 43 041 29 1 14 629 14 5 889 452 Lima Whiskey Tango 58 142 8784 8 1 47 257 483 703 817 783
+
+23:02:39 GMT-0400 (Eastern Daylight Time) 
+
+upladed! 23:03:48 GMT-0400 (Eastern Daylight Time)
+posted! to https://botsin.space/@NumbersBot/113365845523326665 at 23:04:11 GMT-0400 (Eastern Daylight Time) 
+
+
+
+ #1 posting at 00:00:00 GMT-0400 (Eastern Daylight Time)
+
+wasm streaming compile failed: TypeError: fetch failed
+falling back to ArrayBuffer instantiation
+
+ recording...
+92 934 639 158 838 042 04 207 9736 1 28 02 220 690 309 464 6 283 185 307 179 586 476 925 286 766 559. 3 141 592 653 589 793 238 462 643 383 279 502 884 197 169 399 375. 6 60 392 085 6 928 143 92 402 8 13 3 037 9149 2 847 0443 23
+00:00:09 GMT-0400 (Eastern Daylight Time) 
+
+upladed! 00:00:49 GMT-0400 (Eastern Daylight Time)
+posted! to https://botsin.space/@NumbersBot/113366068506419166 at 00:00:51 GMT-0400 (Eastern Daylight Time) 
+
+
+
+ #2 posting at 00:30:00 GMT-0400 (Eastern Daylight Time)
+
+wasm streaming compile failed: TypeError: fetch failed
+falling back to ArrayBuffer instantiation
+
+ recording...
+
+5 316 4088 66 107 752 560 0 627 1080 5 177 9067 676 684 386 1 67 919 6 283 185 307 179 586 476 925 286 766 559. 1 732 050 807 568 877 293 527 446 341 506.
+
+00:30:08 GMT-0400 (Eastern Daylight Time) 
+
+upladed! 00:30:57 GMT-0400 (Eastern Daylight Time)
+posted! to https://botsin.space/@NumbersBot/113366187623643261 at 00:31:12 GMT-0400 (Eastern Daylight Time) 
+
+
+
+ #2 posting at 03:30:00 GMT-0400 (Eastern Daylight Time)
+
+wasm streaming compile failed: TypeError: fetch failed
+falling back to ArrayBuffer instantiation
+
+ recording...
+487 461 5 788 694 805 5 958 399 85 88 363 72 0 746 9103 7 13 19 23 31 79 97 103 109 139 167 193 239 263 293 313 331 367 379 383 397 409 487 563 617 653 673 683 709 739 761 863 881 907 937 1009 1033 1039 1093. 3 825 7307 34 27 201 7 97 4 73 856 83 96 21 690 34 1 79 40 670 25 3 141 592 653 589 793 238 462 643 383 279 502 884 197 169 399 375.
+03:30:09 GMT-0400 (Eastern Daylight Time) 
+
+upladed! 03:31:18 GMT-0400 (Eastern Daylight Time)
+posted! to https://botsin.space/@NumbersBot/113366896264353278 at 03:31:24 GMT-0400 (Eastern Daylight Time) 
+
+
+
+ #2 posting at 06:30:00 GMT-0400 (Eastern Daylight Time)
+
+wasm streaming compile failed: TypeError: fetch failed
+falling back to ArrayBuffer instantiation
+
+ recording...
+
+98 083 5657 1 255 9589 61 30 57 654 3 17 817 9212 6 40 348 522 6 283 185 307 179 586 476 925 286 766 559. 7 13 19 23 31 79 97 103 109 139 167 193 239 263 293 313 331 367 379 383 397 409 487 563 617 653 673 683 709 739 761 863 881 907 937 1009 1033 1039 1093.
+
+06:30:09 GMT-0400 (Eastern Daylight Time) 
+
+upladed! 06:31:01 GMT-0400 (Eastern Daylight Time)
+posted! to https://botsin.space/@NumbersBot/113367602760319989 at 06:31:01 GMT-0400 (Eastern Daylight Time) 
+
+
+
+ #1 posting at 07:00:00 GMT-0400 (Eastern Daylight Time)
+
+wasm streaming compile failed: TypeError: fetch failed
+falling back to ArrayBuffer instantiation
+
+ recording...
+1 772 453 850 905 516. 180 344 2 7 55 639 673 4 5 13 91 032 9 Yankee Sierra Foxtrot 9 85 456 95 0 55 638 9976 87 67 69 40 666 898 5 335 428 26 607 1 68 07 28 492 59 89 918 508 765 065 660 107 902 5 2 03 865 028 59 72 24 438 368 087 79 09 573
+07:00:08 GMT-0400 (Eastern Daylight Time) 
+
+upladed! 07:00:23 GMT-0400 (Eastern Daylight Time)
+posted! to https://botsin.space/@NumbersBot/113367718232478143 at 07:00:23 GMT-0400 (Eastern Daylight Time) 
+
+
+
+ #2 posting at 09:30:00 GMT-0400 (Eastern Daylight Time)
+
+wasm streaming compile failed: TypeError: fetch failed
+falling back to ArrayBuffer instantiation
+
+ recording...
+WARNING, WARNING, WARNING!
+8 389 849 27 70 034 58 10 406 18 9 96 977 4 296 8816 82 359 6 10 1 414 213 562 373 095 048 801 688 724 210. 57 28 126 27 01 892 3 52 4 36 275 Golf Oscar Oscar Delta 9 4 93 67 364 6 4 911 019
+END.
+09:30:09 GMT-0400 (Eastern Daylight Time) 
+
+upladed! 09:31:06 GMT-0400 (Eastern Daylight Time)
+posted! to https://botsin.space/@NumbersBot/113368311610172591 at 09:31:22 GMT-0400 (Eastern Daylight Time) 
+
+
+
+ #2 posting at 12:30:00 GMT-0400 (Eastern Daylight Time)
+
+wasm streaming compile failed: TypeError: fetch failed
+falling back to ArrayBuffer instantiation
+
+ recording...
+1234567890
+97 635 689 6 193 4826 7 246 2490 78 75 326 73 5 8 28 86 891 2 8 48 577 14 1 982 7926 9 695 883 Whiskey Echo Sierra Tango 13 79 38 20 04 025 45 487 233 816 5 53 157 173 211 257 263 373 563 593 607 653 733 947 977 1103 1123 1187 1223 1367.
+
+12:30:08 GMT-0400 (Eastern Daylight Time) 
+
+upladed! 12:31:27 GMT-0400 (Eastern Daylight Time)
+posted! to https://botsin.space/@NumbersBot/113369021891848704 at 12:31:59 GMT-0400 (Eastern Daylight Time) 
+
+
+
+ #1 posting at 14:00:00 GMT-0400 (Eastern Daylight Time)
+
+wasm streaming compile failed: TypeError: fetch failed
+falling back to ArrayBuffer instantiation
+
+ recording...
+7 13 19 23 31 79 97 103 109 139 167 193 239 263 293 313 331 367 379 383 397 409 487 563 617 653 673 683 709 739 761 863 881 907 937 1009 1033 1039 1093. 0 44 487 7 37 667 582 2 48 765 12 2 16 735 8 22 048 6842 8 809 7708 6 27 341 174 4 4 21 01 087 3 Sierra Echo November Delta 88 402 1512 2 313 0947 58 741 446 79 028 5725 06 876 1566 8 0 1 86 89 532 8 Uniform Hotel India Lima 2 29 966 40 63 08 435 3 59 578 22
+14:00:08 GMT-0400 (Eastern Daylight Time) 
+
+upladed! 14:01:30 GMT-0400 (Eastern Daylight Time)
+uh, oh, a mastodon.postMedia error:
+
+
+ #2 posting at 15:30:00 GMT-0400 (Eastern Daylight Time)
+
+wasm streaming compile failed: TypeError: fetch failed
+falling back to ArrayBuffer instantiation
+
+ recording...
+
+312 302 2 31 732 4892 9 18 160 709 India November Echo 871 090 879 548 711 744 24 934 5907 1 772 453 850 905 516. 3 34 860 109 6 3 45 83 833 2 51 027 1 14 Golf India Alfa Lima 58 671 0 90 75 549 960
+
+15:30:09 GMT-0400 (Eastern Daylight Time) 
+
+upladed! 15:31:17 GMT-0400 (Eastern Daylight Time)
+posted! to https://botsin.space/@NumbersBot/113369728905052422 at 15:31:47 GMT-0400 (Eastern Daylight Time) 
+
+
+
+ #2 posting at 18:30:00 GMT-0400 (Eastern Daylight Time)
+
+(node:14632) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 uncaughtException listeners added to [process]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:14632) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 unhandledRejection listeners added to [process]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+wasm streaming compile failed: TypeError: fetch failed
+falling back to ArrayBuffer instantiation
+
+ recording...
+ATTENTION, ATTENTION, ATTENTION!
+3 2 22 73 520 6 9 0 63 47 461 9 97 82 627 14 Uniform Uniform Quebec Uniform 9 3 71 64 006 1 0 62 292 6 103 9227 86 77 49 300 93 265 1063 2 56 860 2 32 Whiskey Foxtrot Alfa Uniform 03 00 699 10 943 489 083 244 723 0 396 585 7 84 51 91 65 013 773 15 114 586
+
+18:30:08 GMT-0400 (Eastern Daylight Time) 
+
+upladed! 18:31:20 GMT-0400 (Eastern Daylight Time)
+posted! to https://botsin.space/@NumbersBot/113370436148860337 at 18:31:38 GMT-0400 (Eastern Daylight Time) 
+
+
+
+ #1 posting at 21:00:00 GMT-0400 (Eastern Daylight Time)
+
+wasm streaming compile failed: TypeError: fetch failed
+falling back to ArrayBuffer instantiation
+
+ recording...
+
+4 85 240 273 628 275 570 7 31 576 130 November Oscar 52 74 475 83 051 7520 4 037 478 45 788 6677 57 741 3553 5 4 64 242 086 Yankee Oscar Uniform 5 52 954 774 18 01 606 34 2 718 281 828 459 045 235 360 287 471 352 662 497 757 247. 68 277 490 3 61 423 68 995 7 85 55 44 925 06 9 72 49 431 45 2 27 268 848
+
+21:00:09 GMT-0400 (Eastern Daylight Time) 
+
+upladed! 21:01:31 GMT-0400 (Eastern Daylight Time)
+posted! to https://botsin.space/@NumbersBot/113371027638567815 at 21:02:04 GMT-0400 (Eastern Daylight Time) 
+
+
+
+ #2 posting at 21:30:00 GMT-0400 (Eastern Daylight Time)
+
+wasm streaming compile failed: TypeError: fetch failed
+falling back to ArrayBuffer instantiation
+
+ recording...
+
+9 54 080 764 21 86 407 54 931 1880 Sierra Oscar Uniform Tango Hotel 27 840 0382 2 387 6055 2 718 281 828 459 045 235 360 287 471 352 662 497 757 247. 88 82 113 81 4 45 01 120 03 2 3 1 86 09 010 3 08 81 235 4 4 09 44 248 8 3 326 943
+
+21:30:09 GMT-0400 (Eastern Daylight Time) 
+
+upladed! 21:31:14 GMT-0400 (Eastern Daylight Time)
+posted! to https://botsin.space/@NumbersBot/113371143233594934 at 21:31:28 GMT-0400 (Eastern Daylight Time) 
+

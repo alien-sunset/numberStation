@@ -1,0 +1,7 @@
+📻 listening in on port 53765
+⏰ server start time: 11/10/2024, 11:09:20 AM
+
+wasm streaming compile failed: TypeError: fetch failed
+falling back to ArrayBuffer instantiation
+
+ recording...

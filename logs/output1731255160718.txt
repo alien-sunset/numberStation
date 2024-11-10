@@ -1,0 +1,13 @@
+📻 listening in on port 53799
+⏰ server start time: 11/10/2024, 11:12:40 AM
+
+wasm streaming compile failed: TypeError: fetch failed
+falling back to ArrayBuffer instantiation
+
+ recording...
+1234567890
+1 059 463 094 359 295 264 561 825 294 946. 38 37 147 83 242 397 3 781 0547 29 87 12 021 196 6 94 32 67 3 106 145 Golf India 76 58 22 87 64 28 87 095 3 36
+Zulu, Zulu, Zulu.
+11:12:41 AM 
+
+aww crap, a mastodon.postMedia error: Error: JSON decode error: Mastodon HTTP response body was not valid JSON

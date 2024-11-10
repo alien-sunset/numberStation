@@ -56,7 +56,7 @@ const botScript = async () => {
     voice: "en-us+aunty",
     hasTags: "true",
     punct: "false",
-    wordGap: "11",
+    wordGap: "11"
   });
   // out is of type Uint8Array
   const assert = require("assert");
@@ -65,11 +65,11 @@ const botScript = async () => {
   assert.equal(out[2], 70); //F
   assert.equal(out[3], 70); //F
 
-  let recorder = fs.createWriteStream(`./voice/numbers.wav`);
+  let recorder = await fs.createWriteStream(`./voice/numbers.wav`);
   recorder.write(out);
   console.log(`\n recording...`);
 
-  sleep(8000).then(() => {
+
     const cOptions = { wordwrap: false };
     const statusText = convert(`${flatGrammar}`, cOptions);
     const mediaDescription =
@@ -83,8 +83,7 @@ const botScript = async () => {
       mediaDescription,
       statusText
     );
-  });
-}; //main bot stuff, turn text to speach, save the file, generate status text and description, send all that to mastodon.
+  }; //main bot stuff, turn text to speach, save the file, generate status text and description, send all that to mastodon.
 
 function sendFileToMastodon(filePath, mediaDescription, statusText, cb) {
   mastodonClient.post(
@@ -96,7 +95,7 @@ function sendFileToMastodon(filePath, mediaDescription, statusText, cb) {
     },
     (err, data, response) => {
       if (err) {
-        console.log("aww crap, a mastodon.postMedia error:", err);
+        console.log(`aww crap, a mastodon.postMedia error: ${err}`);
         if (cb) {
           cb(err, data);
         }

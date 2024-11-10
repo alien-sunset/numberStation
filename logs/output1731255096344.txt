@@ -1,0 +1,13 @@
+📻 listening in on port 53783
+⏰ server start time: 11/10/2024, 11:11:36 AM
+
+wasm streaming compile failed: TypeError: fetch failed
+falling back to ArrayBuffer instantiation
+
+ recording...
+
+469 373 894 4 98 091 20 32 892 588 056 114 285 3 266 6155 8 7 38 48 338 9 00 764 4570 4 Echo Romeo Echo Papa 45 47 68 92 866 4254 9 28 802 5146 1 772 453 850 905 516.
+
+11:11:36 AM 
+
+aww crap, a mastodon.postMedia error:

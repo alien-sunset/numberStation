@@ -145,8 +145,3 @@ cron.schedule("30 */3 * * *", () => {
   botScript();
 });
 
-//connecting to teh interwebs
-const listener = app.listen(process.env.PORT, () => {
-  console.log("📻 listening in on port " + listener.address().port);
-  console.log(`⏰ server start time: ${new Date().toLocaleString()}\n`);
-});
